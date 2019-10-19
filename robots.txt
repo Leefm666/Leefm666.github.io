@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://leefm666.github.io/sitemap.xml
